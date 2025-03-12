@@ -1,0 +1,17 @@
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\bin\Debug\net8.0\M7PAPIA.exe
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\bin\Debug\net8.0\M7PAPIA.deps.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\bin\Debug\net8.0\M7PAPIA.runtimeconfig.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\bin\Debug\net8.0\M7PAPIA.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\bin\Debug\net8.0\M7PAPIA.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.csproj.AssemblyReference.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.AssemblyInfoInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.AssemblyInfo.cs
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.csproj.CoreCompileInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.csproj.Up2Date
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\refint\M7PAPIA.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\M7PAPIA.genruntimeconfig.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\M7PAPIA\M7PAPIA\obj\Debug\net8.0\ref\M7PAPIA.dll
